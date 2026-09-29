@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart SPJ BOSP",
+  "description": "Aplikasi Pelaporan Keuangan dan Pembuatan Dokumen SPJ BOSP Sekolah, RKAS, BKU, Kwitansi \u0026 Nota Cetak Otomatis",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
